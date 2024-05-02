@@ -1,0 +1,11 @@
+.btn-card{
+    @apply bg-red-400 w-44 px-2 py-1 rounded-xl text-white text-nowrap font-semibold text-xl hover:bg-red-600 
+}
+
+.card-list{
+    @apply flex flex-wrap gap-8 justify-center mx-8 my-16
+}
+
+.card-img{
+    @apply w-[300px] h-[400px] rounded-xl
+}
